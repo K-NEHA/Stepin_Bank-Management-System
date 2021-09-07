@@ -10,3 +10,4 @@ source- google
 [![Unit testing](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/unity.yml/badge.svg)](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/unity.yml)
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/cppcheck.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/cppcheck.yml)
