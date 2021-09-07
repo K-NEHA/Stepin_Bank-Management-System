@@ -6,3 +6,5 @@ source- google
  
 
 [![Contribution Check - Git Inspector](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/gitinspector.yml)
+
+[![Unit testing](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/unity.yml/badge.svg)](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/unity.yml)
