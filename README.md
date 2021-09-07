@@ -4,5 +4,5 @@ source- google
 
 # Bank Management System
  
-[![Code Quality - Static Code - Cppcheck](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/cppcheck.yml)
+
 [![Contribution Check - Git Inspector](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/gitinspector.yml)
