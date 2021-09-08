@@ -10,7 +10,7 @@ source- google
 [![Unit testing](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/unity.yml/badge.svg)](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/unity.yml)
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/cppcheck.yml)
-[![Code Quality - Static Code - Cppcheck](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/K-NEHA/Stepin_PACMANGAME/actions/workflows/cppcheck.yml)
+
 [![code quality score](https://www.code-inspector.com/project/28170/score/svg)](https://frontend.code-inspector.com/public/project/28170/Stepin_PACMANGAME/dashboard)
 [![code grade](https://www.code-inspector.com/project/28170/status/svg)](https://frontend.code-inspector.com/public/project/28170/Stepin_PACMANGAME/dashboard)
 
